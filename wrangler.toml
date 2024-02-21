@@ -1,0 +1,8 @@
+name = "info-mail"
+main = "./src/index.ts"
+compatibility_date = "2023-08-30"
+[vars]
+API_URL = ""
+SERVER_KEY = ""
+FORWARD_EMAIL = ""
+INC_ADDRESS = ""
